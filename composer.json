@@ -1,10 +1,10 @@
 {
     "require": { },
     "name": "tencent/tls-sig-api-v2",
-    "description": "tls-sig-api-v2 适用于腾讯云通信生成用户账号签名。",
+    "description": "tls-sig-api-v2 Applicable to Tencent Cloud TRTC and CHAT services to generate user account signatures",
     "type": "library",
-    "keywords": [ "tencent", "im", "trtc" ],
-    "homepage": "https://github.com/tencentyun/tls-sig-api-v2-php",
+    "keywords": [ "tencent", "chat", "trtc" ],
+    "homepage": "https://github.com/tencentcloud/tls-sig-api-v2-php",
     "license": "MIT",
     "authors": [
         {
